@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://majestic-medovik-22cf8a.netlify.app/sitemap.xml
